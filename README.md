@@ -2,17 +2,6 @@
 
 This is a simple backend service for a personal notes app using Supabase Edge Functions.
 
-## Project Structure
-
-```
-.
-├── functions/
-│   ├── post_notes.js
-│   └── get_notes.js
-├── schema.sql
-└── README.md
-```
-
 ## Setup and Deployment
 
 1. Create a Supabase project.
